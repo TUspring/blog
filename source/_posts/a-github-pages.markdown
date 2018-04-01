@@ -18,6 +18,9 @@ example.com  ---->注意前面没有http://，也没有www，
 > hexo g
 > hexo d
 
+
+<!-- more -->
+
 后会把你的博客所在目录下 public 文件夹里的东西都推到 Github Pages 仓库上，并且把 CNAME 文件覆盖掉，解决这个问题可以直接把 CNAME 文件添加到 source 文件夹里，这样每次推的时候就不用担心仓库里的 CNAME 文件被覆盖掉了。
 
 ###### 2. 向你的 DNS 配置中添加 3 条记录

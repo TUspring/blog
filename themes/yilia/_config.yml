@@ -7,10 +7,10 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/tuspring"
-  weibo: "www.baidu.com"
+  weibo: "https://weibo.com/tuspring"
 #  rss: /atom.xml
 #  psn: "http://lol.qq.com/"
-  zhihu: "https://www.zhihu.com"
+  zhihu: "https://www.zhihu.com/people/xiao-bug-78/activities"
 #  douban: "https://www.douban.com/"
   segmentfault: "https://segmentfault.com/"
 #  bilibili: "#"
@@ -79,8 +79,8 @@ mobile:
 #wangyiyun: '2dba06fbf8d24c13915ea6c6aa7183b1'
 
 #3、畅言
-#changyan_appid: 'cysX3aGWt'
-#changyan_conf: 'prod_1dcda447175aada96edcdb7e412338fa'
+changyan_appid: 'cytxJgion'
+changyan_conf: 'prod_5cb76ed6ea83a94021d9a7fd251913e1'
 
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
 disqus: false

@@ -18,10 +18,13 @@ tags:
 ## 一、第一步：下载安装Git
 > [Git下载地址](https://gitforwindows.org/)
 
+
+<!-- more -->
+
 ### Git安装步骤
 ![](https://upload-images.jianshu.io/upload_images/1531909-4da9b2db5ad099b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/519)
 
-<!-- more -->
+
 ![](https://upload-images.jianshu.io/upload_images/1531909-44bddccbb0bc44fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/483)
 >然后一路默认
 
